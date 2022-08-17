@@ -42,4 +42,7 @@ li a {
 }
 li a:hover {
   background: rgba(47, 6, 228, 0.185);
+  color: rgb(179, 21, 21);
 }
+
+
